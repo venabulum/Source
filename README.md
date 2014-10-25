@@ -21,7 +21,7 @@ https://www.codeschool.com/paths/ruby -- курсы по Ruby, Rails на анг
 http://railstutorial.ru/chapters/4_0/beginning -- книга "изучение rails на примерах" на русском  
 http://www.youtube.com/channel/UCmK6SHxXwKNWEpmiBYF8atw/videos -- перевод на русский "rails for zombies"  
 https://github.com/venabulum/Why-s-Poignant-Guide-to-Ruby -- перевод на русский "Why’s (Poignant) Guide to Ruby"
-http://7vn.ru/blog/2011/11/18/object-model -- объектная модель руби на русском
+http://7vn.ru/blog/2011/11/18/object-model -- объектная модель руби на русском  
 https://github.com/arbox/ruby-style-guide/blob/master/README-ruRU.md -- ruby style guide
 
 ####RSpec
