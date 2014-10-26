@@ -7,7 +7,7 @@ http://htmlbook.ru/ -- справочник по html, css на русском
 ####JavaScript:  
 https://hexlet.org/course/javascript -- курс по основам js на русском  
 http://habrahabr.ru/post/240219 -- перевод на русский книги "выразительный javascript"  
-http://try.jquery.com -- курс по jquery
+http://try.jquery.com -- курс по jquery  
 
 ####CoffeeScript:  
 http://cidocs.ru/coffeescript -- перевод на русский оф. документации  
@@ -20,27 +20,27 @@ http://habrahabr.ru/post/48559/ -- серия статей "Покорим Ру�
 https://www.codeschool.com/paths/ruby -- курсы по Ruby, Rails на английском  
 http://railstutorial.ru/chapters/4_0/beginning -- книга "изучение rails на примерах" на русском  
 http://www.youtube.com/channel/UCmK6SHxXwKNWEpmiBYF8atw/videos -- перевод на русский "rails for zombies"  
-https://github.com/venabulum/Why-s-Poignant-Guide-to-Ruby -- перевод на русский "Why’s (Poignant) Guide to Ruby"
-http://7vn.ru/blog/2011/11/18/object-model -- объектная модель руби на русском  
-https://github.com/arbox/ruby-style-guide/blob/master/README-ruRU.md -- ruby style guide
+https://github.com/venabulum/Why-s-Poignant-Guide-to-Ruby -- перевод на русский "Why’s (Poignant) Guide to Ruby"  
+http://7vn.ru/blog/2011/11/18/object-model -- объектная модель руби на русском   
+https://github.com/arbox/ruby-style-guide/blob/master/README-ruRU.md -- ruby style guide  
 
-####RSpec
+####RSpec  
 https://www.codeschool.com/courses/testing-with-rspec -- курс по rspec на английском  
 http://betterspecs.org/ru -- введение в rspec, основные моменты на русском  
 http://rubydev.ru/2011/09/rspec-tutorial-ruby-rails-bdd/ -- туториал по rspec на русском  
-http://habrahabr.ru/post/163597 -- введение в TDD (Rails + Rspec) на русском
+http://habrahabr.ru/post/163597 -- введение в TDD (Rails + Rspec) на русском  
 
-####Git
+####Git  
 http://git-scm.com/book/ru/v1 -- полное руководство на русском  
-https://www.codeschool.com/paths/git -- курс по git на английском
+https://www.codeschool.com/paths/git -- курс по git на английском  
 
-####Unix
-http://muff.kiev.ua/files/books/theunixprogrammingenvironment.pdf -- единственная не устаревающая книга, которая позволит разбираться в unix
+####Unix  
+http://muff.kiev.ua/files/books/theunixprogrammingenvironment.pdf -- единственная не устаревающая книга, которая позволит разбираться в unix  
 
-####Развертывание приложения
+####Развертывание приложения  
 http://habrahabr.ru/post/240025/ -- статья "Рубин на рельсах: продакшен и деплой для чайников"  
 
-####Базы данных
+####Базы данных  
 http://www.sql.ru/docs/sql/u_sql -- понимание SQL на русском  
 http://www.sql-tutorial.ru/ru/content.html -- интерактивный учебник по БД  
-http://citforum.ru/database/postgresql/tutorial-accessdb.html -- учебеник postgresql (довольно старый)
+http://citforum.ru/database/postgresql/tutorial-accessdb.html -- учебеник postgresql (довольно старый)  
