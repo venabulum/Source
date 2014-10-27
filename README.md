@@ -20,7 +20,6 @@ http://habrahabr.ru/post/48559/ -- серия статей "Покорим Ру�
 https://www.codeschool.com/paths/ruby -- курсы по Ruby, Rails на английском  
 http://railstutorial.ru/chapters/4_0/beginning -- книга "изучение rails на примерах" на русском  
 http://www.youtube.com/channel/UCmK6SHxXwKNWEpmiBYF8atw/videos -- перевод на русский "rails for zombies"  
-http://rgua.github.io/app -- пример разработки приложения на рельсах на русском  
 https://github.com/venabulum/Why-s-Poignant-Guide-to-Ruby -- перевод на русский "Why’s (Poignant) Guide to Ruby"  
 http://7vn.ru/blog/2011/11/18/object-model -- объектная модель руби на русском   
 https://github.com/arbox/ruby-style-guide/blob/master/README-ruRU.md -- ruby style guide  
